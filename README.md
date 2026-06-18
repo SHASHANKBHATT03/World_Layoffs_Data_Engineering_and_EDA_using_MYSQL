@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project presents an end-to-end SQL workflow focused on **Data Engineering Pipelines** and **Exploratory Data Analysis (EDA)** using a comprehensive dataset of global tech layoffs since the COVID-19 pandemic. The lifecycle spans from engineering a raw, unformatted data dump into a production-ready analytical layer, followed by surfacing actionable macroeconomic insights about industry-wide contractions, funding impacts, and corporate workforce reductions.
 
-* **Dataset Source:** [Kaggle World Layoffs Dataset (2020 - Present)](https://kaggle.com)
+* **Dataset Source:** [Kaggle World Layoffs Dataset (2020 - Present)](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 * **Database Platform:** MySQL / MySQL Workbench
 * **Core Competencies:** Advanced SQL, Data Pipelines, Window Functions, Common Table Expressions (CTEs), Schema Modification, Data Imputation.
 
@@ -12,7 +12,7 @@ This project presents an end-to-end SQL workflow focused on **Data Engineering P
 ## 📂 Repository Structure
 To maintain production-grade data pipeline standards, the SQL scripts are modularly divided into separate structural layers:
 ```text
-📦 World_Layoffs_Data_Engineering_and_EDA
+📦 World_Layoffs_Data_Engineering_and_EDA_using_MYSQL
  ┣ 📂 sql_scripts
  ┃ ┣ 📜 1_data_cleaning.sql            # Staging, Deduplication, and Schema Modification
  ┃ ┗ 📜 2_exploratory_data_analysis.sql # Trend Analysis, Aggregations, and Rank Partitions
