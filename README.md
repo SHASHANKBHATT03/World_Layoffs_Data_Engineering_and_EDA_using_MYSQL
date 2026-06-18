@@ -1,4 +1,4 @@
-# 📉 World Layoffs: Data Engineering & Exploratory Data Analysis Using SQL
+# 📉 World Layoffs: Data Engineering & Exploratory Data Analysis Using MYSQL
 
 ## 📌 Project Overview
 This project presents an end-to-end SQL workflow focused on **Data Engineering Pipelines** and **Exploratory Data Analysis (EDA)** using a comprehensive dataset of global tech layoffs since the COVID-19 pandemic. The lifecycle spans from engineering a raw, unformatted data dump into a production-ready analytical layer, followed by surfacing actionable macroeconomic insights about industry-wide contractions, funding impacts, and corporate workforce reductions.
